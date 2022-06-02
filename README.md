@@ -1,4 +1,4 @@
-<h1><img src="https://media.istockphoto.com/illustrations/clubhouse-icon-in-flat-style-illustration-id1332698269?k=20&m=1332698269&s=612x612&w=0&h=rHd6-cAmQHVHR_MyuocexFwc-tlvSlzHtxE71aNKFEI="> Hi, I’m Ayomide</h1>
+<h1>Hi, I’m Ayomide</h1>
 <ul>
   <li>👀 I’m a frontend developer</li>
 <li>🌱 I’m currently working on some projects to improve my frontend development skills</li>
