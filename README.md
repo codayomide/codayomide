@@ -1,4 +1,4 @@
-<h1>Hi, I’m Ayomide 👋</h1>
+<h1>Hi, I’m Ayomide </h1>
 <ul>
   <li>👀 I’m a frontend developer</li>
 <li>🌱 I’m currently working on some projects to improve my frontend development skills</li>
